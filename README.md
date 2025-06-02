@@ -1,5 +1,4 @@
-# MLFlow
+### MLFlow
 
-This is a NextJS starter in Firebase Studio.
+This is a Machine Learning operation platform UI
 
-To get started, take a look at src/app/page.tsx.
